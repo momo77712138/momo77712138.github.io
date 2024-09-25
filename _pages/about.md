@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student from [Department of Physic](https://phys.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). My research interest includes Scientific Machine leaning (SciML), AI for Partial Differential Equations (AI4PDEs) and Physics for AI (Physics4AI). 
+I'm an final year undergraduate student from [Department of Physic](https://phys.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). My research interest includes Scientific Machine leaning (SciML), AI for Partial Differential Equations and AI for Science. I'm particularly interested in applying machine leanring to PDE systems. 
 
-I am very fortunate to be advised by [Prof. Lu Lu](https://lugroup.yale.edu/) at [Department of Statistics and Data Science ](https://statistics.yale.edu/), Yale University. 
+I am very fortunate to be cooperate with [Prof. Lu Lu](https://lugroup.yale.edu/) at [Department of Statistics and Data Science ](https://statistics.yale.edu/), Yale University. Currently, I'm a visiting student at [School of Computational Science and Engineering](https://cse.gatech.edu/)(CSE), Georgia Tech], working with [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+;You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](ppxiao20@fudan.edu.cn) / [Github](https://github.com/momo77712138) / [Wechat]
+[Email](pengpengxiao008@gmail.com) / [Github](https://github.com/momo77712138) / [Wechat](luuuuu7771303)
