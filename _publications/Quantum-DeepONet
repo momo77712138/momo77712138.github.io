@@ -1,0 +1,13 @@
+---
+title: "Quantum DeepONet: Neural operators accelerated by quantum computing"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+In the realm of computational science and engineering, constructing models that reflect real-world phenomena requires solving partial differential equations (PDEs) with different conditions. Recent advancements in neural operators, such as deep operator network (DeepONet), which learn mappings between infinite-dimensional function spaces, promise efficient computation of PDE solutions for a new condition in a single forward pass. However, classical DeepONet entails quadratic complexity concerning input dimensions during evaluation. Given the progress in quantum algorithms and hardware, here we propose to utilize quantum computing to accelerate DeepONet evaluations, yielding complexity that is linear in input dimensions. Our proposed quantum DeepONet integrates unary encoding and orthogonal quantum layers. We benchmark our quantum DeepONet using a variety of PDEs, including the antiderivative operator, advection equation, and Burgers' equation. We demonstrate the method's efficacy in both ideal and noisy conditions. Furthermore, we show that our quantum DeepONet can also be informed by physics, minimizing its reliance on extensive data collection. Quantum DeepONet will be particularly advantageous in applications in outer loop problems which require to explore parameter space and solving the corresponding PDEs, such as uncertainty quantification and optimal experimental design.
