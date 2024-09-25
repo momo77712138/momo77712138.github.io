@@ -13,4 +13,4 @@ I am very fortunate to be cooperate with [Prof. Lu Lu](https://lugroup.yale.edu/
 
 ;You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email:pengpengxiao008@gmail.com / [Github](https://github.com/momo77712138) / Wechat:luuuuu7771303
+Email: pengpengxiao008@gmail.com / [Github](https://github.com/momo77712138) / Wechat: luuuuu7771303
