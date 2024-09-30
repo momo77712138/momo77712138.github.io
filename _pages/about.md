@@ -15,4 +15,4 @@ Email: pengpengxiao008@gmail.com / [Github](https://github.com/momo77712138) / W
 
 Please find my publication here:
 
-<font size=3> - Pengpeng Xiao, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. https://arxiv.org/abs/2409.15683. Submitted to ***Quantum***.</font>
+- <font size=3> Pengpeng Xiao, Muqing Zheng, Anran Jiao, Xiu Yang, and Lu Lu. "Quantum DeepONet: Neural Operators Accelerated by Quantum Computing." arXiv, 2024. https://arxiv.org/abs/2409.15683. Submitted to ***Quantum***. </font>
